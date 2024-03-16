@@ -8,8 +8,8 @@ This repository contains an in-depth analysis of sales data to identify key tren
 
 - `Sales_Analysis.ipynb`: A Jupyter Notebook with the complete Python analysis including data cleaning, processing, analysis, and visualizations.
 - `ECOMM DATA.xlsx`: The raw dataset used for this analysis.
-- `monthly_sales_trend.png`: Visualization of the sales trends over time.
-- `top_10_best_selling_products.png`: Bar chart visualization of the top 10 best-selling products.
+- `Monthly Sales Trend.png`: Visualization of the sales trends over time.
+- `Top 10 Best Selling Products.png`: Bar chart visualization of the top 10 best-selling products.
 - `Sales_Data_Analysis_Report.pdf`: A detailed report documenting the methodology, findings, and insights from the analysis.
 
 ## How to Run
